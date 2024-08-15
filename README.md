@@ -51,14 +51,19 @@ The `StudentGradingSystem` class contains the `main` method and serves as the en
 ## EXAMPLE
 Enter the Number of Subjects:
 3
+
 Enter the Subject Name:
 Mathematics
+
 Enter the Credits of the Subject:
 4
+
 Enter Internal Marks for the Subject:
 30
+
 Enter External Marks for the Subject:
 70
+
 Enter the Total Marks for the Subject:
 100
 
