@@ -46,7 +46,9 @@ The `StudentGradingSystem` class contains the `main` method and serves as the en
 
 2. Run the code
    java StudentGradingSystem
-##EXAMPLE
+
+   
+## EXAMPLE
 Enter the Number of Subjects:
 3
 Enter the Subject Name:
